@@ -4,8 +4,6 @@ I'm a flutter developer, interested in programming , technology and computer sci
 
 - 🔭 I’m currently working on Parking app using flutter .
 - 🌱 I’m currently learning flutter and node js .
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about flutter development
 - 📫 How to reach me: fadywaheed10@gmail.com or Facebook https://www.facebook.com/fadywaheed11 .
 - 😄 Pronouns: he/him
