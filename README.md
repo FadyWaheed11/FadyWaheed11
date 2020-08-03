@@ -45,7 +45,7 @@ Hi there, I'm **Fady Waheed**, a **Flutter Developer** and a **Software Engineer
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Fady's github stats](https://github-readme-stats.vercel.app/api?username=FadyWaheed11&show_icons=true&hide_border=true)
+![Fady's github stats](https://camo.githubusercontent.com/3f6c7e88f7c884777aaf72d74f4401e1d837d624/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4661647957616865656431312673686f775f69636f6e733d7472756526686964655f626f726465723d74727565)
 
 ⭐️ From [FadyWaheed](https://github.com/FadyWaheed11)
 
