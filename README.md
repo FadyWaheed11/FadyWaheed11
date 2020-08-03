@@ -47,5 +47,5 @@ Hi there, I'm **Fady Waheed**, a **Flutter Developer** and a **Software Engineer
 
 ![Fady's github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true)
 
-⭐️ From [CallmeMehdi](https://github.com/CallmeMehdi)
+⭐️ From [CallmeMehdi](https://github.com/FadyWaheed11)
 
