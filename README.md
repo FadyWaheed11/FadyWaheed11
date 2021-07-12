@@ -32,7 +32,7 @@ Hi there, I'm **Fady Waheed**, a **Software Automation Engineer** 🚀 **from Eg
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bug/bug.png"></code>
+<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bitcoininsider.org%2Farticle%2F33142%2Freact-app-powered-selenium&psig=AOvVaw0dFVRk8xNeoLx71vS9jp8j&ust=1626210966346000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCODmjIy63vECFQAAAAAdAAAAABAV"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
