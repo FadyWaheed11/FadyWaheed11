@@ -16,16 +16,15 @@
 <br />
 <br />
 
-Hi there, I'm **Fady Waheed**, a **Flutter Developer** and a **Software Engineer** 🚀 **from Egypt** . 
+Hi there, I'm **Fady Waheed**, a **Software Automation Engineer** 🚀 **from Egypt** . 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently a Flutter developer working on parking project;
-- 🌱 I’m currently learning more about flutter and node js; 
-- 🤔 My interests are with mobile development , technology and computer science in general;
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
+- 👨🏽‍💻 I’m currently a software automation engineer;
+- 🤔 My interests are with software testing , technology and computer science in general;
+- 💼 I pursued a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via fadywaheed10@gmail.com to reach me.
 - 📝 See my [Resume](https://drive.google.com/file/d/1i44dREEjo6M5S7Hv3lVh1pP_v0jMpE81/view?usp=sharing) to get more info.
@@ -33,6 +32,7 @@ Hi there, I'm **Fady Waheed**, a **Flutter Developer** and a **Software Engineer
 
 **Languages and Tools:**  
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/testing.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
