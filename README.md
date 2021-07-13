@@ -27,7 +27,7 @@ Hi there, I'm **Fady Waheed**, a **Software Automation Engineer** 🚀 **from Eg
 - 💼 I pursued a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via fadywaheed10@gmail.com to reach me.
-- 📝 See my [Resume](https://drive.google.com/file/d/1BPVfbSSAQvyZX7TWYyIRGjFrKpJs8Hvj/view?usp=sharing) to get more info.
+- 📝 See my [Resume](https://drive.google.com/file/d/1CWG_4dBKPXShdofEmFcBAO8ARjxIaYBi/view?usp=sharing) to get more info.
 
 
 **Languages and Tools:**  
